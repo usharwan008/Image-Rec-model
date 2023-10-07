@@ -1,2 +1,3 @@
 # Image-Rec-model
-Image Recognition model trained using Convolutional Neural Network till 50 epochs.
+Image Classification model created using Tensorflow and a Convoluted Neural Network.
+Trained for 50 epochs using the CIFAR-10 Dataset.
